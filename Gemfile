@@ -29,6 +29,7 @@ gem 'devise', '~> 3.4.1'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'paperclip', '~> 4.2.1'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
